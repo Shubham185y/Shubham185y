@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Shubham Yadav (2)](https://github.com/Shubham185y/Shubham185y/assets/100077254/3396ff16-9d60-4524-9798-609e41f5615b)
+
 ### Hi there 👋
 <br />
-<h1 align="center"> Shubham Yadav - @Shubham185y </h1>
+<h1 align="center"> Shubham Yadav <a href="https://twitter.com/Shubhamy185?s=09"> Shubhamy185 </a> </h1>
 
 ### 👨‍💻 &nbsp;About Me
 😄 Pronouns:He/Him\
