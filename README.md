@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 <br />
-<h1 align="center"> Shubham Yadav <a href="https://twitter.com/Shubhamy185?s=09"> Shubhamy185 </a> </h1>
+<h1 align="center"> Shubham Yadav  </h1>
 
 ### 👨‍💻 &nbsp;About Me
 😄 Pronouns:He/Him\
